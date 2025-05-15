@@ -37,7 +37,7 @@ def adicionarFuncionario(lista):
 
 #Função para remover os dados adicionados e selecionar qual dado especifico remover.
 def remover(lista):
-    if validarLista(listFuncionarios)
+    if validarLista(listFuncionarios):
         return
     
     mostrarFuncionarios(listFuncionarios)
